@@ -1,0 +1,200 @@
+
+2023-04-28 07:07:14...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:07:36...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:07:40...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:07:43...Begin System Check Process *************
+2023-04-28 07:07:43...XML Parsing Support Found
+2023-04-28 07:07:43...MBString Support Found
+2023-04-28 07:07:43...ZIP Support Found
+2023-04-28 07:07:43.../custom directory and subdirectory check passed
+2023-04-28 07:07:43...cache directory and subdirectory check passed
+2023-04-28 07:07:44.../module  directory and subdirectory check passed
+2023-04-28 07:07:44.../upload directory check passed
+2023-04-28 07:07:44.../zip check passed
+2023-04-28 07:07:44...PCRE version check passed
+2023-04-28 07:07:44...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:07:44...php.ini location found. E:\Wamp\bin\apache\apache2.4.46\bin\php.ini
+2023-04-28 07:07:44...Outputting HTML for System check
+2023-04-28 07:07:44...No Errors were found *************
+2023-04-28 07:07:46...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:07:48...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:07:50...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:07:57...Begin DB Check Process *************
+2023-04-28 07:07:57...testing with mysql:mysqli
+2023-04-28 07:07:57...Basic form info is valid, continuing Process.
+2023-04-28 07:07:57...Testing user account...
+2023-04-28 07:07:57...Connection made using  host: localhost, usr: root
+2023-04-28 07:07:57...Testing priviliged account...
+2023-04-28 07:07:57...Connection made using  host: localhost, usr: root
+2023-04-28 07:07:57...DB not selected, will create sugarcrm
+2023-04-28 07:07:57...Passed DB install check
+2023-04-28 07:07:57...SUCCESS:: no errors detected!
+2023-04-28 07:07:57...End DB Check Process *************
+2023-04-28 07:07:57...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:08:03...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:08:09...installerHook: Could not find custom/install/install_hooks.php
+2023-04-28 07:08:09...calling handleSugarConfig()
+2023-04-28 07:08:09...calling handleLog4Php()
+2023-04-28 07:08:09...calling handleHtaccess()
+2023-04-28 07:08:09...calling handleDbCreateDatabase()
+2023-04-28 07:08:09...looping through all the Beans and create their tables
+2023-04-28 07:08:09...processing table acl_actions
+2023-04-28 07:08:09...creating table acl_actions
+2023-04-28 07:08:09...creating Relationship Meta for ACLAction
+2023-04-28 07:08:09...processing table acl_roles
+2023-04-28 07:08:09...creating table acl_roles
+2023-04-28 07:08:09...creating Relationship Meta for ACLRole
+2023-04-28 07:08:09...processing table relationships
+2023-04-28 07:08:09...creating table relationships
+2023-04-28 07:08:09...creating Relationship Meta for Relationship
+2023-04-28 07:08:09...processing table leads
+2023-04-28 07:08:09...creating table leads
+2023-04-28 07:08:09...creating Relationship Meta for Lead
+2023-04-28 07:08:09...processing table cases
+2023-04-28 07:08:09...creating table cases
+2023-04-28 07:08:09...creating Relationship Meta for Case
+2023-04-28 07:08:09...processing table bugs
+2023-04-28 07:08:09...creating table bugs
+2023-04-28 07:08:09...creating Relationship Meta for Bug
+2023-04-28 07:08:09...processing table users
+2023-04-28 07:08:09...creating table users
+2023-04-28 07:08:09...creating Relationship Meta for User
+2023-04-28 07:08:09...processing table campaign_log
+2023-04-28 07:08:09...creating table campaign_log
+2023-04-28 07:08:09...creating Relationship Meta for CampaignLog
+2023-04-28 07:08:09...processing table project
+2023-04-28 07:08:09...creating table project
+2023-04-28 07:08:09...creating Relationship Meta for Project
+2023-04-28 07:08:09...processing table project_task
+2023-04-28 07:08:09...creating table project_task
+2023-04-28 07:08:09...creating Relationship Meta for ProjectTask
+2023-04-28 07:08:09...processing table campaigns
+2023-04-28 07:08:09...creating table campaigns
+2023-04-28 07:08:09...creating Relationship Meta for Campaign
+2023-04-28 07:08:09...processing table prospect_lists
+2023-04-28 07:08:09...creating table prospect_lists
+2023-04-28 07:08:09...creating Relationship Meta for ProspectList
+2023-04-28 07:08:09...processing table prospects
+2023-04-28 07:08:09...creating table prospects
+2023-04-28 07:08:09...creating Relationship Meta for Prospect
+2023-04-28 07:08:09...processing table email_marketing
+2023-04-28 07:08:10...creating table email_marketing
+2023-04-28 07:08:10...creating Relationship Meta for EmailMarketing
+2023-04-28 07:08:10...processing table campaign_trkrs
+2023-04-28 07:08:10...creating table campaign_trkrs
+2023-04-28 07:08:10...creating Relationship Meta for CampaignTracker
+2023-04-28 07:08:10...processing table releases
+2023-04-28 07:08:10...creating table releases
+2023-04-28 07:08:10...creating Relationship Meta for Release
+2023-04-28 07:08:10...processing table emailman
+2023-04-28 07:08:10...creating table emailman
+2023-04-28 07:08:10...creating Relationship Meta for EmailMan
+2023-04-28 07:08:10...processing table schedulers
+2023-04-28 07:08:10...creating table schedulers
+2023-04-28 07:08:10...creating Relationship Meta for Scheduler
+2023-04-28 07:08:10...processing table job_queue
+2023-04-28 07:08:10...creating table job_queue
+2023-04-28 07:08:10...creating Relationship Meta for SchedulersJob
+2023-04-28 07:08:10...processing table contacts
+2023-04-28 07:08:10...creating table contacts
+2023-04-28 07:08:10...creating Relationship Meta for Contact
+2023-04-28 07:08:10...processing table accounts
+2023-04-28 07:08:10...creating table accounts
+2023-04-28 07:08:10...creating Relationship Meta for Account
+2023-04-28 07:08:10...processing table opportunities
+2023-04-28 07:08:10...creating table opportunities
+2023-04-28 07:08:10...creating Relationship Meta for Opportunity
+2023-04-28 07:08:10...processing table email_templates
+2023-04-28 07:08:10...creating table email_templates
+2023-04-28 07:08:10...creating Relationship Meta for EmailTemplate
+2023-04-28 07:08:10...processing table notes
+2023-04-28 07:08:10...creating table notes
+2023-04-28 07:08:10...creating Relationship Meta for Note
+2023-04-28 07:08:10...processing table calls
+2023-04-28 07:08:10...creating table calls
+2023-04-28 07:08:10...creating Relationship Meta for Call
+2023-04-28 07:08:10...processing table emails
+2023-04-28 07:08:10...creating table emails
+2023-04-28 07:08:10...creating Relationship Meta for Email
+2023-04-28 07:08:10...processing table meetings
+2023-04-28 07:08:10...creating table meetings
+2023-04-28 07:08:10...creating Relationship Meta for Meeting
+2023-04-28 07:08:10...processing table tasks
+2023-04-28 07:08:10...creating table tasks
+2023-04-28 07:08:10...creating Relationship Meta for Task
+2023-04-28 07:08:10...processing table users
+2023-04-28 07:08:10...processing table users
+2023-04-28 07:08:10...processing table currencies
+2023-04-28 07:08:10...creating table currencies
+2023-04-28 07:08:10...creating Relationship Meta for Currency
+2023-04-28 07:08:10...processing table tracker
+2023-04-28 07:08:10...creating table tracker
+2023-04-28 07:08:10...creating Relationship Meta for Tracker
+2023-04-28 07:08:10...processing table import_maps
+2023-04-28 07:08:10...creating table import_maps
+2023-04-28 07:08:10...creating Relationship Meta for ImportMap
+2023-04-28 07:08:10...processing table users_last_import
+2023-04-28 07:08:10...creating table users_last_import
+2023-04-28 07:08:10...creating Relationship Meta for UsersLastImport
+2023-04-28 07:08:10...processing table config
+2023-04-28 07:08:10...creating table config
+2023-04-28 07:08:10...creating Relationship Meta for Administration
+2023-04-28 07:08:10...processing table upgrade_history
+2023-04-28 07:08:10...creating table upgrade_history
+2023-04-28 07:08:10...creating Relationship Meta for UpgradeHistory
+2023-04-28 07:08:10...processing table vcals
+2023-04-28 07:08:10...creating table vcals
+2023-04-28 07:08:10...creating Relationship Meta for vCal
+2023-04-28 07:08:10...processing table versions
+2023-04-28 07:08:10...creating table versions
+2023-04-28 07:08:10...creating Relationship Meta for Version
+2023-04-28 07:08:10...processing table roles
+2023-04-28 07:08:10...creating table roles
+2023-04-28 07:08:10...creating Relationship Meta for Role
+2023-04-28 07:08:10...processing table documents
+2023-04-28 07:08:11...creating table documents
+2023-04-28 07:08:11...creating Relationship Meta for Document
+2023-04-28 07:08:11...processing table document_revisions
+2023-04-28 07:08:11...creating table document_revisions
+2023-04-28 07:08:11...creating Relationship Meta for DocumentRevision
+2023-04-28 07:08:11...processing table fields_meta_data
+2023-04-28 07:08:11...creating table fields_meta_data
+2023-04-28 07:08:11...creating Relationship Meta for FieldsMetaData
+2023-04-28 07:08:11...processing table inbound_email
+2023-04-28 07:08:11...creating table inbound_email
+2023-04-28 07:08:11...creating Relationship Meta for InboundEmail
+2023-04-28 07:08:11...processing table saved_search
+2023-04-28 07:08:11...creating table saved_search
+2023-04-28 07:08:11...creating Relationship Meta for SavedSearch
+2023-04-28 07:08:11...processing table user_preferences
+2023-04-28 07:08:11...creating table user_preferences
+2023-04-28 07:08:11...creating Relationship Meta for UserPreference
+2023-04-28 07:08:11...processing table 
+2023-04-28 07:08:11...processing table email_addresses
+2023-04-28 07:08:11...creating table email_addresses
+2023-04-28 07:08:11...creating Relationship Meta for EmailAddress
+2023-04-28 07:08:11...processing table emails_text
+2023-04-28 07:08:11...creating table emails_text
+2023-04-28 07:08:11...creating Relationship Meta for EmailText
+2023-04-28 07:08:11...processing table sugarfeed
+2023-04-28 07:08:11...creating table sugarfeed
+2023-04-28 07:08:11...creating Relationship Meta for SugarFeed
+2023-04-28 07:08:11...processing table eapm
+2023-04-28 07:08:11...creating table eapm
+2023-04-28 07:08:11...creating Relationship Meta for EAPM
+2023-04-28 07:08:11...processing table oauth_consumer
+2023-04-28 07:08:11...creating table oauth_consumer
+2023-04-28 07:08:11...creating Relationship Meta for OAuthKey
+2023-04-28 07:08:11...processing table oauth_tokens
+2023-04-28 07:08:11...creating table oauth_tokens
+2023-04-28 07:08:11...creating Relationship Meta for OAuthToken
+2023-04-28 07:08:12...Begin creating Defaults
+2023-04-28 07:08:12...insert defaults into config table
+2023-04-28 07:08:12...Creating default users
+2023-04-28 07:08:12...Creating default scheduler jobs
+2023-04-28 07:08:12...Enable SugarFeeds
+2023-04-28 07:08:12...Enable InsideView Connector
+2023-04-28 07:08:12...Creating FTS logic hook
+2023-04-28 07:08:12...populating the db with seed data
+2023-04-28 07:08:12...Installation has completed *********
+2023-04-28 07:08:19...installerHook: Could not find custom/install/install_hooks.php
